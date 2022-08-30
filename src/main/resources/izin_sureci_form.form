@@ -1,0 +1,38 @@
+{
+  "components": [
+    {
+      "label": "Ad",
+      "type": "textfield",
+      "id": "Field_171cm2d",
+      "key": "name"
+    },
+    {
+      "label": "Soyad",
+      "type": "textfield",
+      "id": "Field_1jzsfy1",
+      "key": "surname"
+    },
+    {
+      "label": "İzin Tarihi",
+      "type": "textfield",
+      "id": "Field_00l5gxn",
+      "key": "date"
+    },
+    {
+      "label": "Onayla",
+      "type": "checkbox",
+      "id": "Field_001bzsy",
+      "key": "approved",
+      "disabled": false
+    }
+  ],
+  "type": "default",
+  "id": "izin_sureci_form",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.2.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.17.0",
+  "schemaVersion": 4
+}
